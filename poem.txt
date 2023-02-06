@@ -6,6 +6,7 @@ Green
 Orange 
 Yellow
 Violet
+Pink
 These are the colors of rainbow. 
 
 Daisy 
