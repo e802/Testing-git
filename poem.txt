@@ -3,4 +3,5 @@ Blue
 Green 
 Orange 
 Yellow
+Violet
 These are the colors of rainbow. 
