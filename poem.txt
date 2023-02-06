@@ -1,3 +1,5 @@
+The Rainbow and flowers
+
 Red 
 Blue 
 Green 
@@ -5,3 +7,9 @@ Orange
 Yellow
 Violet
 These are the colors of rainbow. 
+
+Daisy 
+Lily 
+Rose
+Sunflower 
+These are some flowers
